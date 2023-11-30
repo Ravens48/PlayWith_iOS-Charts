@@ -1,0 +1,1116 @@
+{
+    "dailyInfluxDto": [
+     {
+       "day": "MON",
+       "influx": [
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 0,
+           "end": 1
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 1,
+           "end": 2
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 2,
+           "end": 3
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 3,
+           "end": 4
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 4,
+           "end": 5
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 5,
+           "end": 6
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 7,
+           "end": 8
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 9,
+           "end": 10
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 10,
+           "end": 11
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 11,
+           "end": 12
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 12,
+           "end": 13
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 13,
+           "end": 14
+         },
+         {
+           "influxAsNumeric": 5,
+           "influxAsEnum": "veryhigh",
+           "influxAsString": "Très fréquenté",
+           "start": 14,
+           "end": 15
+         },
+         {
+           "influxAsNumeric": 4,
+           "influxAsEnum": "high",
+           "influxAsString": "Assez fréquenté",
+           "start": 15,
+           "end": 16
+         },
+         {
+           "influxAsNumeric": 2,
+           "influxAsEnum": "low",
+           "influxAsString": "Peu fréquenté",
+           "start": 16,
+           "end": 17
+         },
+         {
+           "influxAsNumeric": 3,
+           "influxAsEnum": "medium",
+           "influxAsString": "Fréquenté",
+           "start": 17,
+           "end": 18
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 18,
+           "end": 19
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 19,
+           "end": 20
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 20,
+           "end": 21
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 21,
+           "end": 22
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 22,
+           "end": 23
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 23,
+           "end": 24
+         }
+       ]
+     },
+     {
+       "day": "TUE",
+       "influx": [
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 0,
+           "end": 1
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 1,
+           "end": 2
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 2,
+           "end": 3
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 3,
+           "end": 4
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 4,
+           "end": 5
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 5,
+           "end": 6
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 7,
+           "end": 8
+         },
+         {
+           "influxAsNumeric": 2,
+           "influxAsEnum": "low",
+           "influxAsString": "Peu fréquenté",
+           "start": 9,
+           "end": 10
+         },
+         {
+           "influxAsNumeric": 1,
+           "influxAsEnum": "verylow",
+           "influxAsString": "Très peu fréquenté",
+           "start": 10,
+           "end": 11
+         },
+         {
+           "influxAsNumeric": 4,
+           "influxAsEnum": "high",
+           "influxAsString": "Assez fréquenté",
+           "start": 11,
+           "end": 12
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 12,
+           "end": 13
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 13,
+           "end": 14
+         },
+         {
+           "influxAsNumeric": 4,
+           "influxAsEnum": "high",
+           "influxAsString": "Assez fréquenté",
+           "start": 14,
+           "end": 15
+         },
+         {
+           "influxAsNumeric": 5,
+           "influxAsEnum": "veryhigh",
+           "influxAsString": "Très fréquenté",
+           "start": 15,
+           "end": 16
+         },
+         {
+           "influxAsNumeric": 3,
+           "influxAsEnum": "medium",
+           "influxAsString": "Fréquenté",
+           "start": 16,
+           "end": 17
+         },
+         {
+           "influxAsNumeric": 2,
+           "influxAsEnum": "low",
+           "influxAsString": "Peu fréquenté",
+           "start": 17,
+           "end": 18
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 18,
+           "end": 19
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 19,
+           "end": 20
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 20,
+           "end": 21
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 21,
+           "end": 22
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 22,
+           "end": 23
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 23,
+           "end": 24
+         }
+       ]
+     },
+     {
+       "day": "WED",
+       "influx": [
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 0,
+           "end": 1
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 1,
+           "end": 2
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 2,
+           "end": 3
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 3,
+           "end": 4
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 4,
+           "end": 5
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 5,
+           "end": 6
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 7,
+           "end": 8
+         },
+         {
+           "influxAsNumeric": 2,
+           "influxAsEnum": "low",
+           "influxAsString": "Peu fréquenté",
+           "start": 9,
+           "end": 10
+         },
+         {
+           "influxAsNumeric": 3,
+           "influxAsEnum": "medium",
+           "influxAsString": "Fréquenté",
+           "start": 10,
+           "end": 11
+         },
+         {
+           "influxAsNumeric": 5,
+           "influxAsEnum": "veryhigh",
+           "influxAsString": "Très fréquenté",
+           "start": 11,
+           "end": 12
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 12,
+           "end": 13
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 13,
+           "end": 14
+         },
+         {
+           "influxAsNumeric": 4,
+           "influxAsEnum": "high",
+           "influxAsString": "Assez fréquenté",
+           "start": 14,
+           "end": 15
+         },
+         {
+           "influxAsNumeric": 3,
+           "influxAsEnum": "medium",
+           "influxAsString": "Fréquenté",
+           "start": 15,
+           "end": 16
+         },
+         {
+           "influxAsNumeric": 3,
+           "influxAsEnum": "medium",
+           "influxAsString": "Fréquenté",
+           "start": 16,
+           "end": 17
+         },
+         {
+           "influxAsNumeric": 2,
+           "influxAsEnum": "low",
+           "influxAsString": "Peu fréquenté",
+           "start": 17,
+           "end": 18
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 18,
+           "end": 19
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 19,
+           "end": 20
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 20,
+           "end": 21
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 21,
+           "end": 22
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 22,
+           "end": 23
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 23,
+           "end": 24
+         }
+       ]
+     },
+     {
+       "day": "THU",
+       "influx": [
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 0,
+           "end": 1
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 1,
+           "end": 2
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 2,
+           "end": 3
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 3,
+           "end": 4
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 4,
+           "end": 5
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 5,
+           "end": 6
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 7,
+           "end": 8
+         },
+         {
+           "influxAsNumeric": 5,
+           "influxAsEnum": "veryhigh",
+           "influxAsString": "Très fréquenté",
+           "start": 9,
+           "end": 10
+         },
+         {
+           "influxAsNumeric": 3,
+           "influxAsEnum": "medium",
+           "influxAsString": "Fréquenté",
+           "start": 10,
+           "end": 11
+         },
+         {
+           "influxAsNumeric": 2,
+           "influxAsEnum": "low",
+           "influxAsString": "Peu fréquenté",
+           "start": 11,
+           "end": 12
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 12,
+           "end": 13
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 13,
+           "end": 14
+         },
+         {
+           "influxAsNumeric": 4,
+           "influxAsEnum": "high",
+           "influxAsString": "Assez fréquenté",
+           "start": 14,
+           "end": 15
+         },
+         {
+           "influxAsNumeric": 3,
+           "influxAsEnum": "medium",
+           "influxAsString": "Fréquenté",
+           "start": 15,
+           "end": 16
+         },
+         {
+           "influxAsNumeric": 1,
+           "influxAsEnum": "verylow",
+           "influxAsString": "Très peu fréquenté",
+           "start": 16,
+           "end": 17
+         },
+         {
+           "influxAsNumeric": 3,
+           "influxAsEnum": "medium",
+           "influxAsString": "Fréquenté",
+           "start": 17,
+           "end": 18
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 18,
+           "end": 19
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 19,
+           "end": 20
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 20,
+           "end": 21
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 21,
+           "end": 22
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 22,
+           "end": 23
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 23,
+           "end": 24
+         }
+       ]
+     },
+     {
+       "day": "FRI",
+       "influx": [
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 0,
+           "end": 1
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 1,
+           "end": 2
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 2,
+           "end": 3
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 3,
+           "end": 4
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 4,
+           "end": 5
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 5,
+           "end": 6
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 7,
+           "end": 8
+         },
+         {
+           "influxAsNumeric": 5,
+           "influxAsEnum": "veryhigh",
+           "influxAsString": "Très fréquenté",
+           "start": 9,
+           "end": 10
+         },
+         {
+           "influxAsNumeric": 4,
+           "influxAsEnum": "high",
+           "influxAsString": "Assez fréquenté",
+           "start": 10,
+           "end": 11
+         },
+         {
+           "influxAsNumeric": 2,
+           "influxAsEnum": "low",
+           "influxAsString": "Peu fréquenté",
+           "start": 11,
+           "end": 12
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 12,
+           "end": 13
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 13,
+           "end": 14
+         },
+         {
+           "influxAsNumeric": 1,
+           "influxAsEnum": "verylow",
+           "influxAsString": "Très peu fréquenté",
+           "start": 14,
+           "end": 15
+         },
+         {
+           "influxAsNumeric": 3,
+           "influxAsEnum": "medium",
+           "influxAsString": "Fréquenté",
+           "start": 15,
+           "end": 16
+         },
+         {
+           "influxAsNumeric": 2,
+           "influxAsEnum": "low",
+           "influxAsString": "Peu fréquenté",
+           "start": 16,
+           "end": 17
+         },
+         {
+           "influxAsNumeric": 1,
+           "influxAsEnum": "verylow",
+           "influxAsString": "Très peu fréquenté",
+           "start": 17,
+           "end": 18
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 18,
+           "end": 19
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 19,
+           "end": 20
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 20,
+           "end": 21
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 21,
+           "end": 22
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 22,
+           "end": 23
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 23,
+           "end": 24
+         }
+       ]
+     },
+     {
+       "day": "SAT",
+       "influx": [
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 0,
+           "end": 1
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 1,
+           "end": 2
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 2,
+           "end": 3
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 3,
+           "end": 4
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 4,
+           "end": 5
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 5,
+           "end": 6
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 7,
+           "end": 8
+         },
+         {
+           "influxAsNumeric": 3,
+           "influxAsEnum": "medium",
+           "influxAsString": "Fréquenté",
+           "start": 9,
+           "end": 10
+         },
+         {
+           "influxAsNumeric": 3,
+           "influxAsEnum": "medium",
+           "influxAsString": "Fréquenté",
+           "start": 10,
+           "end": 11
+         },
+         {
+           "influxAsNumeric": 2,
+           "influxAsEnum": "low",
+           "influxAsString": "Peu fréquenté",
+           "start": 11,
+           "end": 12
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 12,
+           "end": 13
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 13,
+           "end": 14
+         },
+         {
+           "influxAsNumeric": 4,
+           "influxAsEnum": "high",
+           "influxAsString": "Assez fréquenté",
+           "start": 14,
+           "end": 15
+         },
+         {
+           "influxAsNumeric": 5,
+           "influxAsEnum": "veryhigh",
+           "influxAsString": "Très fréquenté",
+           "start": 15,
+           "end": 16
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 16,
+           "end": 17
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 17,
+           "end": 18
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 18,
+           "end": 19
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 19,
+           "end": 20
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 20,
+           "end": 21
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 21,
+           "end": 22
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 22,
+           "end": 23
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 23,
+           "end": 24
+         }
+       ]
+     },
+     {
+       "day": "SUN",
+       "influx": [
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 0,
+           "end": 1
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 1,
+           "end": 2
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 2,
+           "end": 3
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 3,
+           "end": 4
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 4,
+           "end": 5
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 5,
+           "end": 6
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 7,
+           "end": 8
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 9,
+           "end": 10
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 10,
+           "end": 11
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 11,
+           "end": 12
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 12,
+           "end": 13
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 13,
+           "end": 14
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 14,
+           "end": 15
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 15,
+           "end": 16
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 16,
+           "end": 17
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 17,
+           "end": 18
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 18,
+           "end": 19
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 19,
+           "end": 20
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 20,
+           "end": 21
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 21,
+           "end": 22
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 22,
+           "end": 23
+         },
+         {
+           "influxAsNumeric": 0,
+           "influxAsEnum": "nothing",
+           "influxAsString": "Actuellement fermé",
+           "start": 23,
+           "end": 24
+         }
+       ]
+     }
+   ]}

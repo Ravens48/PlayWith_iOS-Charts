@@ -13,6 +13,12 @@
 		E9B0758F2B17352100D433F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9B0758D2B17352100D433F1 /* Main.storyboard */; };
 		E9B075912B17352200D433F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9B075902B17352200D433F1 /* Assets.xcassets */; };
 		E9B075942B17352200D433F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9B075922B17352200D433F1 /* LaunchScreen.storyboard */; };
+		E9B0759D2B1735A800D433F1 /* DGCharts in Frameworks */ = {isa = PBXBuildFile; productRef = E9B0759C2B1735A800D433F1 /* DGCharts */; };
+		E9B0759F2B17394300D433F1 /* rc.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9B0759E2B17394300D433F1 /* rc.swift */; };
+		E9B075A22B173AF400D433F1 /* TinyConstraints in Frameworks */ = {isa = PBXBuildFile; productRef = E9B075A12B173AF400D433F1 /* TinyConstraints */; };
+		E9B075A42B1772E300D433F1 /* info.json in Resources */ = {isa = PBXBuildFile; fileRef = E9B075A32B1772E300D433F1 /* info.json */; };
+		E9B075A62B177B2100D433F1 /* dayCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9B075A52B177B2100D433F1 /* dayCollectionViewCell.swift */; };
+		E9B075A82B17847D00D433F1 /* ChartsViewCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9B075A72B17847D00D433F1 /* ChartsViewCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +30,10 @@
 		E9B075902B17352200D433F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9B075932B17352200D433F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9B075952B17352200D433F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9B0759E2B17394300D433F1 /* rc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rc.swift; sourceTree = "<group>"; };
+		E9B075A32B1772E300D433F1 /* info.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = info.json; sourceTree = "<group>"; };
+		E9B075A52B177B2100D433F1 /* dayCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayCollectionViewCell.swift; sourceTree = "<group>"; };
+		E9B075A72B17847D00D433F1 /* ChartsViewCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartsViewCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +41,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9B0759D2B1735A800D433F1 /* DGCharts in Frameworks */,
+				E9B075A22B173AF400D433F1 /* TinyConstraints in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +75,10 @@
 				E9B075902B17352200D433F1 /* Assets.xcassets */,
 				E9B075922B17352200D433F1 /* LaunchScreen.storyboard */,
 				E9B075952B17352200D433F1 /* Info.plist */,
+				E9B0759E2B17394300D433F1 /* rc.swift */,
+				E9B075A32B1772E300D433F1 /* info.json */,
+				E9B075A52B177B2100D433F1 /* dayCollectionViewCell.swift */,
+				E9B075A72B17847D00D433F1 /* ChartsViewCollectionViewCell.swift */,
 			);
 			path = pocCharts;
 			sourceTree = "<group>";
@@ -83,6 +99,10 @@
 			dependencies = (
 			);
 			name = pocCharts;
+			packageProductDependencies = (
+				E9B0759C2B1735A800D433F1 /* DGCharts */,
+				E9B075A12B173AF400D433F1 /* TinyConstraints */,
+			);
 			productName = pocCharts;
 			productReference = E9B075842B17352100D433F1 /* pocCharts.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +131,10 @@
 				Base,
 			);
 			mainGroup = E9B0757B2B17352100D433F1;
+			packageReferences = (
+				E9B0759B2B1735A800D433F1 /* XCRemoteSwiftPackageReference "Charts" */,
+				E9B075A02B173AF400D433F1 /* XCRemoteSwiftPackageReference "TinyConstraints" */,
+			);
 			productRefGroup = E9B075852B17352100D433F1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -126,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E9B075942B17352200D433F1 /* LaunchScreen.storyboard in Resources */,
+				E9B075A42B1772E300D433F1 /* info.json in Resources */,
 				E9B075912B17352200D433F1 /* Assets.xcassets in Resources */,
 				E9B0758F2B17352100D433F1 /* Main.storyboard in Resources */,
 			);
@@ -138,9 +163,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9B075A82B17847D00D433F1 /* ChartsViewCollectionViewCell.swift in Sources */,
+				E9B0759F2B17394300D433F1 /* rc.swift in Sources */,
 				E9B0758C2B17352100D433F1 /* ViewController.swift in Sources */,
 				E9B075882B17352100D433F1 /* AppDelegate.swift in Sources */,
 				E9B0758A2B17352100D433F1 /* SceneDelegate.swift in Sources */,
+				E9B075A62B177B2100D433F1 /* dayCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -295,6 +323,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -323,6 +352,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -358,6 +388,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		E9B0759B2B1735A800D433F1 /* XCRemoteSwiftPackageReference "Charts" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/danielgindi/Charts.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.0;
+			};
+		};
+		E9B075A02B173AF400D433F1 /* XCRemoteSwiftPackageReference "TinyConstraints" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/roberthein/TinyConstraints";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		E9B0759C2B1735A800D433F1 /* DGCharts */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E9B0759B2B1735A800D433F1 /* XCRemoteSwiftPackageReference "Charts" */;
+			productName = DGCharts;
+		};
+		E9B075A12B173AF400D433F1 /* TinyConstraints */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E9B075A02B173AF400D433F1 /* XCRemoteSwiftPackageReference "TinyConstraints" */;
+			productName = TinyConstraints;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = E9B0757C2B17352100D433F1 /* Project object */;
 }
